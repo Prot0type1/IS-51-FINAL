@@ -18,3 +18,19 @@ finalize
 
 """
 
+"""
+
+main()
+
+    initiates the program
+    infile = open
+    output total number of grades
+    print("")
+    display average 
+    print("")
+
+calculate_percentage_above_average()
+    caluate the percentage
+    print("")
+
+"""
